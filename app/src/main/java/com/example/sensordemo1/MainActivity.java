@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private TextView tvXgyro;
     private TextView tvYgyro;
     private TextView tvZgyro;
+    private int btnFlag = 0;
 
     public MainActivity(){
         //
